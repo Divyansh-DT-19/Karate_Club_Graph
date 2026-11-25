@@ -189,5 +189,5 @@ AI was used as a supplementary learning resource to improve my understanding of 
 
 ---
 
-**Course Assignment:** DSC212 – Graph Theory
+**Course Assignment:** DSC212 – Graph Theory<br>
 **Submitted by:** Divyansh Trivedi | **Roll Number:** IMS25073
