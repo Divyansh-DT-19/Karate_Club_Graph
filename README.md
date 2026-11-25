@@ -1,6 +1,6 @@
 # Modularity on the Karate Club Graph
 
-**Course:** DSC212 – Graph Theory Module  
+**Course:** DSC212 – Graph Theory 
 **Author:** Divyansh Trivedi  
 **Roll Number:** IMS25073  
 **Institute:** IISER Thiruvananthapuram
